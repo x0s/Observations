@@ -1,0 +1,1 @@
+Here are some observations I made when developing with PHP.
